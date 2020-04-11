@@ -1,0 +1,6 @@
+super user 
+lodon.iksong@gmail.com, IK, password123
+in AWS
+lodon.iksong@gmail.com jdsU6RBtzEW348rAbphn
+
+"token": "2060e69cdca489e8557f91c00abaab0016bdfd75"
